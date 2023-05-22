@@ -4,13 +4,15 @@ Unmask the mysterious world of your auth.log file and become a true spy-catching
 
 ## Overview
 
-Have you ever noticed suspicious IPs sliding into your auth logs? Did you ever stay up all night pondering who are these audacious individuals trying to SSH into your machine on port 69420? Well, fret no more! SpyOnSpies is here to save the day and unleash your inner spy-busting genius!
+Have you ever noticed suspicious IPs sliding into your auth logs? 😱🔍 Did you ever stay up all night pondering who are these audacious individuals trying to SSH into your machine on port *69420*? 🤔💻 Well, fret no more! SpyOnSpies is here to save the day and unleash your inner spy-busting genius! 🕵️‍♂️💥🌟🔥💣🔓🔑🚀🌈🎉🎊💡📚💪💯💯💯💯
 
-SpyOnSpies is a compact and formidable bash script that will analyze your auth.log file, count those sneaky login attempts, and even pinpoint the geographical location of the intruders. But that's not all! We've added a brand new feature to help you assess the reputation of the suspicious IPs.
+SpyOnSpies is a compact and formidable bash script that will analyze your auth.log file, count those sneaky login attempts, and even pinpoint the geographical location of the intruders. 🌍🔢 But that's not all! We've added a brand new feature to help you assess the reputation of the suspicious IPs. 🚀💯📈🔒📡📡🌟🌟🌟🌟🌟💣💣💣💣💣🔥🔥🔥🔥🔥
 
-Now, with the power of SpyOnSpies, you can look up the reputation of each IP address using the FraudGuard API. Discover if an IP address has a known threat level or risk associated with it. Uncover vital information to better understand the nature of the intrusions and take appropriate actions to secure your system.
+Now, with the power of SpyOnSpies, you can look up the reputation of each IP address using the FraudGuard API. Discover if an IP address has a known threat level or risk associated with it. 🔎🛡️🔒🚨💻📡💪🌟🌟🌟🌟💣💣💣💣🔥🔥🔥🌈🌈🎉🎉🎉🎊💡💡💡💪💪💯💯💯💥💥💥💥
 
-Get ready to expose the spies, send them packing, and assess their reputation with SpyOnSpies!
+Get ready to expose the spies, send them packing, and assess their reputation with SpyOnSpies! 🚫👀🕵️‍♂️✨📈🔒💥🌟🔥🌍🔓🚀💯🚨💻📡💪🌈🎉🎊💡🔑💣🔥💥🌟🌟🌟🌟🌟💣💣💣💣💣🔥🔥🔥🔥🔥🌈🌈🌈🌈🌈🎉🎉🎉🎉🎊🎊🎊🎊💡💡💡💡💪💪💪💪💯💯💯💯
+
+**Damn it! A sneaky hacker has infiltrated and hijacked my emoji keyboard! But fear not, with the mighty SpyOnSpies in my arsenal, I'll swiftly neutralize the threat!** 🚫🕵️‍♂️💥
 
 ## How to Run
 
